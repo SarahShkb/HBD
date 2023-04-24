@@ -1,22 +1,20 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./Steam.webp";
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <h1>
+          Happy BirthDay Abbas!! &#10084;
+          <br />
+        </h1>
+
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Redeem code: <code>6RBRD-7YX5Q-G7WJ3</code>
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <h1>Love You! &#10084;</h1>
       </header>
     </div>
   );
